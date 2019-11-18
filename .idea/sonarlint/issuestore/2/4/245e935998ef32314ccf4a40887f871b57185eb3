@@ -1,0 +1,5 @@
+
+Ssquid:S1444	"5Make this "public static DEFAULT_TIMEOUT" field final(‹ö¹¥8”âî‘ß-
+"squid:ClassVariableVisibilityCheck	"[Make DEFAULT_TIMEOUT a static final constant or non-public and provide accessors if needed.(‹ö¹¥8”âî‘ß-
+xsquid:S3008	"ZRename this field "DEFAULT_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ö¹¥8”âî‘ß-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(” ôÖ8”âî‘ß-

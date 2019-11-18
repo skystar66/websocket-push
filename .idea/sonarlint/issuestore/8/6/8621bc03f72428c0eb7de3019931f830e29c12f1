@@ -1,0 +1,7 @@
+
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Áëñıÿÿÿÿ8Œ¾¼Âß-
+jsquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(Áó’âıÿÿÿÿ8Œ¾¼Âß-
+msquid:UselessImportCheck	"=Remove this unused import 'javax.websocket.server.PathParam'.(ÊÊş†ûÿÿÿÿ8Œ¾¼Âß-
+Asquid:S1148/"#Use a logger to log this exception.(Ç’Çê8Œ¾¼Âß-
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(À€È48Œ¾¼Âß-
+hsquid:S3252:"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(Ò°í¹şÿÿÿÿ8Œ¾¼Âß-

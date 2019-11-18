@@ -1,0 +1,9 @@
+
+@squid:S2386"Make this member "protected".(êßåşÿÿÿÿ8™ØÂß-
+Zsquid:S2589k"7Remove this expression which always evaluates to "true"(ù…ˆÁüÿÿÿÿ8™ØÂß-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8™ØÂß-
+Asquid:S1148D"#Use a logger to log this exception.(Ç’Çê8™ØÂß-
+Asquid:S1148J"#Use a logger to log this exception.(Ç’Çê8™ØÂß-
+usquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÜŞ¡Æøÿÿÿÿ8™ØÂß-
+Fsquid:S1604/"(Make this anonymous inner class a lambda(âÓö8™ØÂß-
+<squid:S2119Z"Save and re-use this "Random".(¡Å”¦8™ØÂß-

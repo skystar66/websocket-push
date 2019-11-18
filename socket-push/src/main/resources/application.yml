@@ -1,0 +1,14 @@
+server:
+  port: 9947
+spring:
+  application:
+    name: stock-push
+
+
+ws:
+  corePoolSize: 5
+  wsUrl: ws://127.0.0.1:9945/webSocketProvideServer
+
+
+logging:
+  config: classpath:logback.xml

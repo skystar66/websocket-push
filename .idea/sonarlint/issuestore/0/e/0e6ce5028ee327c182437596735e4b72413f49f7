@@ -1,0 +1,10 @@
+
+bsquid:S1192"FDefine a constant instead of duplicating this literal "event" 4 times.(‹‘ªˆ8€ì¿ß-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ…İÿÿÿÿÿ8€ì¿ß-
+Isquid:S1481"(Remove this unused "ids" local variable.(¦Ë’‚şÿÿÿÿ8€ì¿ß-
+dsquid:S1192"IDefine a constant instead of duplicating this literal "stockIds" 4 times.(í§„+8€ì¿ß-
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°öåx8€ì¿ß-
+Xsquid:S1854"7Remove this useless assignment to local variable "ids".(¦Ë’‚şÿÿÿÿ8€ì¿ß-
+^squid:UselessImportCheck"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$8€ì¿ß-
+Zsquid:S1854"9Remove this useless assignment to local variable "event".(õÌÏ§ûÿÿÿÿ8€ì¿ß-
+Ksquid:S1481"*Remove this unused "event" local variable.(õÌÏ§ûÿÿÿÿ8€ì¿ß-

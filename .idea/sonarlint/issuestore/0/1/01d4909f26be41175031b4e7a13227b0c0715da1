@@ -1,0 +1,9 @@
+
+~squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "wsResponse".(гЇ█Й8иищ╡▀-
+psquid:UselessImportCheck"BRemove this unused import 'com.socket.server.model.WsFutureModel'.(ЩШ╖Є■    8иищ╡▀-
+?squid:S1148"#Use a logger to log this exception.(╟Т╟ъ8иищ╡▀-
+?squid:S1148"#Use a logger to log this exception.(╟Т╟ъ8иищ╡▀-
+Jsquid:S3077".Remove the "volatile" keyword from this field.(ЗеШ╛8иищ╡▀-
+`squid:HiddenFieldCheck"9Rename "start" which hides the field declared at line 36.(Т├Н╝8иищ╡▀-
+Z
+squid:S899":Do something with the "boolean" value returned by "await".(ЯЕ║Р     8иищ╡▀-

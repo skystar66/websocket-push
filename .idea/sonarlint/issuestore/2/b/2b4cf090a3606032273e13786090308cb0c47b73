@@ -1,0 +1,4 @@
+
+Psquid:S2696"6Make the enclosing method "static" or remove this set.(Ö¤ğÿÿÿÿÿ
+9squid:S1905"$Remove this unnecessary cast to "T".(œçå
+¢%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ

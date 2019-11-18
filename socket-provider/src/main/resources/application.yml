@@ -1,0 +1,8 @@
+server:
+  port: 9945
+spring:
+  application:
+    name: stock-server
+
+logging:
+  config: classpath:logback.xml

@@ -1,0 +1,11 @@
+
+Msquid:S1066u"/Merge this if statement with the enclosing one.(Ìñº®8ïï€Ãß-
+Zsquid:S2589t"7Remove this expression which always evaluates to "true"(ú—£Ûøÿÿÿÿ8ïï€Ãß-
+|squid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÿ¬ºùÿÿÿÿ8±í¤Ãß-
+wsquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÂŒ8±í¤Ãß-
+qsquid:ModifiersOrderCheck!"EReorder the modifiers to comply with the Java Language Specification.(†¼¹·8ïï€Ãß-
+qsquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(¢ÚÏ×8ïï€Ãß-
+;squid:S2386&"Make this member "protected".(¢ÚÏ×8ïï€Ãß-
+Asquid:S1148G"#Use a logger to log this exception.(Ç’Çê8¹¡Ãß-
+;squid:S2386!"Make this member "protected".(†¼¹·8ïï€Ãß-
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(Š„ô¤8­µËÃß-

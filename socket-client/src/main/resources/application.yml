@@ -1,0 +1,16 @@
+server:
+  port: 9948
+spring:
+  application:
+    name: stock-push
+
+
+
+ws:
+  url: ws://127.0.0.1:9947/websocket/server
+
+
+
+
+logging:
+  config: classpath:logback.xml

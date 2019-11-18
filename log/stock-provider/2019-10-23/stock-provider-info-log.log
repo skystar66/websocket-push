@@ -1,0 +1,459 @@
+2019-10-23 15:53:02.665 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 93850 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 15:53:02.674 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 15:53:04.414 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 15:53:07.995 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 15:53:07.999 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 15:53:08.549 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 15:53:10.642 [main] INFO  org.apache.catalina.core.StandardService - Stopping service Tomcat
+2019-10-23 15:54:29.339 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 93897 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 15:54:29.348 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 15:54:30.520 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 15:54:32.759 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 15:54:32.763 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 15:54:32.997 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 15:54:35.088 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:54:35.112 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:54:35.184 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:54:35.185 [main] INFO  org.apache.catalina.core.StandardService - Stopping service Tomcat
+2019-10-23 15:54:35.200 [main] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-10-23 15:54:35.200 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:54:35.201 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:57:03.411 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 93993 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 15:57:03.419 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 15:57:04.736 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 15:57:07.364 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 15:57:07.368 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 15:57:07.669 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 15:57:09.649 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:57:09.672 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:57:09.740 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:57:09.741 [main] INFO  org.apache.catalina.core.StandardService - Stopping service Tomcat
+2019-10-23 15:57:09.755 [main] INFO  org.apache.catalina.util.LifecycleBase - The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-10-23 15:57:09.756 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:57:09.756 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-99567"]
+2019-10-23 15:58:01.900 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 94024 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 15:58:01.907 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 15:58:03.174 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 15:58:05.427 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 15:58:05.431 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 15:58:05.756 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 15:58:07.862 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 15:58:07.891 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 15:58:07.946 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 15:58:08.009 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 7.836 seconds (JVM running for 9.729)
+2019-10-23 16:06:24.689 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 16:07:24.069 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 16:07:24.070 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 16:07:24.077 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 16:07:24.086 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 16:07:24.088 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 16:57:24.800 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 95808 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 16:57:24.806 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 16:57:25.854 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 16:57:29.199 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 16:57:29.203 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 16:57:29.513 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 16:57:31.473 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 16:57:31.501 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 16:57:31.555 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 16:57:31.603 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 8.233 seconds (JVM running for 10.721)
+2019-10-23 16:58:30.920 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 17:05:51.333 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:05:51.333 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:05:51.339 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:05:51.333 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:05:51.336 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:10:51.411 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"2"}
+2019-10-23 17:10:51.411 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":""}
+2019-10-23 17:10:51.411 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"1"}
+2019-10-23 17:10:51.429 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"4"}
+2019-10-23 17:10:51.429 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"5"}
+2019-10-23 17:10:51.429 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"0"}
+2019-10-23 17:10:51.431 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"8"}
+2019-10-23 17:10:51.431 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"3"}
+2019-10-23 17:10:51.431 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"7"}
+2019-10-23 17:10:51.433 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"6"}
+2019-10-23 17:10:51.433 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":133,"EptFlag":0,"MsgBody":"9"}
+2019-10-23 17:11:39.813 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:11:39.813 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:11:39.826 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:11:39.828 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:11:39.834 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:16:03.373 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 96408 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 17:16:03.379 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 17:16:04.658 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 17:16:07.555 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 17:16:07.560 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 17:16:07.855 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 17:16:10.035 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:16:10.075 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:16:10.141 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 17:16:10.202 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 8.378 seconds (JVM running for 10.932)
+2019-10-23 17:16:22.219 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 17:16:22.357 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 17:16:22.579 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 17:16:23.093 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 17:16:23.645 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 17:16:24.109 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 17:17:01.541 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":""}
+2019-10-23 17:17:01.550 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"1"}
+2019-10-23 17:17:01.552 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"2"}
+2019-10-23 17:17:01.774 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"4"}
+2019-10-23 17:17:01.790 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"0"}
+2019-10-23 17:17:01.787 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"7"}
+2019-10-23 17:17:01.795 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"5"}
+2019-10-23 17:17:01.842 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"3"}
+2019-10-23 17:17:01.844 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"8"}
+2019-10-23 17:17:01.846 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"6"}
+2019-10-23 17:17:01.848 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":133,"EptFlag":0,"MsgBody":"9"}
+2019-10-23 17:18:10.209 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:18:10.209 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:18:10.219 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:18:10.209 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:18:10.217 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:18:10.256 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=5
+2019-10-23 17:18:10.959 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:18:26.493 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=6
+2019-10-23 17:18:26.989 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=7
+2019-10-23 17:18:27.500 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=8
+2019-10-23 17:18:27.996 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=9
+2019-10-23 17:18:28.503 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=a
+2019-10-23 17:18:54.561 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":""}
+2019-10-23 17:18:54.561 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"1"}
+2019-10-23 17:18:54.561 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"2"}
+2019-10-23 17:18:54.567 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"4"}
+2019-10-23 17:18:54.574 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"0"}
+2019-10-23 17:18:54.574 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"5"}
+2019-10-23 17:18:54.574 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"7"}
+2019-10-23 17:18:54.576 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"3"}
+2019-10-23 17:18:54.579 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"8"}
+2019-10-23 17:18:54.582 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"6"}
+2019-10-23 17:18:54.585 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":133,"EptFlag":0,"MsgBody":"9"}
+2019-10-23 17:19:56.465 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:19:56.469 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:19:56.469 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:19:56.470 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:19:56.471 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:20:07.108 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 96545 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 17:20:07.116 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 17:20:08.141 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 17:20:10.456 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 17:20:10.458 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 17:20:10.676 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 17:20:12.724 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:20:12.760 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:20:12.835 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 17:20:12.895 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 7.341 seconds (JVM running for 9.407)
+2019-10-23 17:20:13.247 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 17:20:13.389 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 17:20:13.602 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 17:20:14.103 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 17:20:14.607 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 17:20:15.113 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 17:21:03.890 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:21:03.890 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:21:03.890 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:21:03.891 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:21:03.890 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:21:03.931 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=5
+2019-10-23 17:21:04.490 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:21:30.298 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=6
+2019-10-23 17:21:30.796 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=7
+2019-10-23 17:21:31.309 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=8
+2019-10-23 17:21:31.811 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=9
+2019-10-23 17:21:32.307 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=a
+2019-10-23 17:21:52.542 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":""}
+2019-10-23 17:21:52.567 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"1"}
+2019-10-23 17:21:52.570 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"2"}
+2019-10-23 17:21:52.928 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"4"}
+2019-10-23 17:21:52.929 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"7"}
+2019-10-23 17:21:52.933 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"0"}
+2019-10-23 17:21:52.936 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"3"}
+2019-10-23 17:21:52.939 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"6"}
+2019-10-23 17:21:52.943 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":133,"EptFlag":0,"MsgBody":"9"}
+2019-10-23 17:21:52.956 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"5"}
+2019-10-23 17:21:52.958 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"8"}
+2019-10-23 17:23:53.124 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:23:53.128 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:23:53.129 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:23:53.130 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:23:53.131 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:29:24.612 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 96854 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 17:29:24.619 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 17:29:25.944 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 17:29:28.678 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 17:29:28.683 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 17:29:28.967 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 17:29:31.321 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:29:31.362 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:29:31.424 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 17:29:31.478 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 8.229 seconds (JVM running for 9.888)
+2019-10-23 17:29:46.099 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 17:29:46.264 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 17:29:46.464 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 17:29:46.973 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 17:29:47.471 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 17:29:47.976 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 17:30:48.347 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 17:30:48.427 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 17:30:48.432 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 17:30:48.966 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 17:30:48.968 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 17:30:48.968 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 17:30:48.971 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 17:30:48.991 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 17:30:49.000 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 17:30:49.032 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 17:31:59.124 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:31:59.124 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:31:59.125 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:31:59.124 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:31:59.124 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:32:10.492 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 96948 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 17:32:10.500 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 17:32:13.110 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-10-23 17:32:17.470 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2019-10-23 17:32:17.473 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2019-10-23 17:32:17.944 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 17:32:22.895 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:32:23.004 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 17:32:23.149 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 17:32:23.244 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 15.036 seconds (JVM running for 18.096)
+2019-10-23 17:33:52.965 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 17:33:53.849 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 17:33:53.908 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 17:33:54.398 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 17:33:54.903 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 17:33:55.410 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 17:34:42.356 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 17:34:42.357 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 17:34:42.356 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 17:34:42.904 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 17:34:42.904 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 17:34:42.907 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 17:34:42.907 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 17:34:42.907 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 17:34:42.908 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 17:34:42.909 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 17:36:41.423 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:36:41.427 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:36:41.425 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:36:41.428 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 17:36:41.446 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:03:37.452 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 99401 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:03:37.476 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:03:42.196 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:03:42.238 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:03:42.238 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:03:42.271 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:03:42.787 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:03:47.259 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:03:47.331 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:03:47.375 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 11.628 seconds (JVM running for 13.569)
+2019-10-23 19:04:17.851 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:04:18.120 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:04:18.146 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:04:18.644 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:04:19.148 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:04:19.659 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:05:29.988 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:05:29.988 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:05:30.000 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:05:30.620 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:05:30.621 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:05:30.623 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:05:30.625 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:05:30.632 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:05:30.634 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:05:30.635 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:09:22.580 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:09:22.584 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:09:22.594 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:09:22.594 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:09:22.595 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:23:33.670 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 177 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:23:33.704 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:23:38.202 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:23:38.235 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:23:38.235 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:23:38.268 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:23:38.551 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:23:40.865 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:23:40.911 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:23:40.954 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 9.089 seconds (JVM running for 11.259)
+2019-10-23 19:23:50.540 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:23:50.673 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:23:50.890 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:23:51.406 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:23:51.904 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:23:52.406 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:24:38.017 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:24:38.018 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:24:38.017 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:24:38.651 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:24:38.652 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:24:38.653 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:24:38.655 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:24:38.655 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:24:38.658 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:24:38.698 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:25:26.586 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:25:26.598 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:25:26.599 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:25:26.600 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:25:26.601 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:28:53.815 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 411 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:28:53.866 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:28:59.059 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:28:59.088 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:28:59.088 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:28:59.105 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:28:59.611 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:29:03.112 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:29:03.238 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:29:03.278 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 11.126 seconds (JVM running for 13.365)
+2019-10-23 19:29:14.116 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:29:14.527 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:29:14.957 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:29:15.485 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:29:15.973 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:29:16.482 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:29:41.991 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:29:41.991 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:29:41.991 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:29:42.385 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:29:42.387 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:29:42.388 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:29:42.388 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:29:42.390 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:29:42.390 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:29:42.390 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:30:10.367 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:30:10.369 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:30:10.369 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:30:10.370 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:30:10.372 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:42:35.870 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 890 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:42:35.881 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:42:41.918 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:42:41.949 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:42:41.950 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:42:41.980 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:42:42.335 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:42:46.066 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:42:46.140 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:42:46.216 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 12.181 seconds (JVM running for 14.402)
+2019-10-23 19:42:51.483 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:42:51.726 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:42:51.820 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:42:52.331 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:42:52.836 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:42:53.341 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:43:25.368 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:43:25.388 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:43:25.419 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:43:25.594 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:43:25.595 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:43:25.599 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:43:25.601 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:43:25.653 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:43:25.657 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:43:25.661 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:43:46.733 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:43:46.735 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:43:46.736 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:43:46.737 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:43:46.738 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:44:00.508 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 941 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:44:00.513 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:44:04.737 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:44:04.773 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:44:04.774 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:44:04.799 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:44:05.061 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:44:07.977 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:44:08.104 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:44:08.143 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 9.761 seconds (JVM running for 12.317)
+2019-10-23 19:44:20.276 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:44:20.436 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:44:20.665 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:44:21.170 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:44:21.686 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:44:22.189 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:45:06.577 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:45:06.577 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:45:06.577 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:45:06.853 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:45:06.854 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:45:06.870 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:45:06.871 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:45:06.877 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:45:06.879 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:45:06.880 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:45:23.418 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:45:23.420 [localhost-startStop-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:45:23.421 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:45:23.421 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:45:23.422 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:47:36.343 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 1062 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:47:36.370 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:47:43.372 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:47:43.404 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:47:43.405 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:47:43.436 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:47:43.792 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:47:48.474 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:47:48.767 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:47:48.900 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 14.733 seconds (JVM running for 17.026)
+2019-10-23 19:47:53.155 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:47:53.558 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:47:53.561 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:47:54.031 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:47:54.524 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:47:55.020 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:48:16.829 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:48:16.883 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:48:16.894 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:48:17.349 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:48:17.351 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:48:17.351 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:48:17.354 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:48:17.354 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:48:17.355 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:48:17.359 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:49:00.007 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:49:00.007 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:49:00.013 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:49:00.013 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:49:00.018 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:49:09.125 [main] INFO  com.socket.provider.SocketProviderServerApplication - Starting SocketProviderServerApplication on xuliangdeMacBook-Air.local with PID 1120 (/Users/xuliang/Documents/socket-demo/socket-provider/target/classes started by xuliang in /Users/xuliang/Documents/socket-demo)
+2019-10-23 19:49:09.132 [main] INFO  com.socket.provider.SocketProviderServerApplication - No active profile set, falling back to default profiles: default
+2019-10-23 19:49:14.789 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:49:14.924 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-10-23 19:49:14.925 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.32
+2019-10-23 19:49:15.074 [localhost-startStop-1] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/xuliang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+2019-10-23 19:49:15.509 [localhost-startStop-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-10-23 19:49:20.117 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9945"]
+2019-10-23 19:49:20.332 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2019-10-23 19:49:20.439 [main] INFO  com.socket.provider.SocketProviderServerApplication - Started SocketProviderServerApplication in 13.017 seconds (JVM running for 14.997)
+2019-10-23 19:49:28.439 [http-nio-9945-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-10-23 19:49:29.089 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=0
+2019-10-23 19:49:29.277 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=1
+2019-10-23 19:49:29.796 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=2
+2019-10-23 19:49:30.291 [http-nio-9945-exec-4] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=3
+2019-10-23 19:49:30.806 [http-nio-9945-exec-5] INFO  com.socket.provider.server.WebSocketProvideServer - Open a websocket. id=4
+2019-10-23 19:49:53.537 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":123,"EptFlag":0,"MsgBody":"0","bussType":10001}
+2019-10-23 19:49:53.556 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":124,"EptFlag":0,"MsgBody":"1","bussType":10001}
+2019-10-23 19:49:53.564 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":125,"EptFlag":0,"MsgBody":"2","bussType":10001}
+2019-10-23 19:49:53.941 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":127,"EptFlag":0,"MsgBody":"4","bussType":10001}
+2019-10-23 19:49:53.942 [http-nio-9945-exec-7] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":130,"EptFlag":0,"MsgBody":"7","bussType":10001}
+2019-10-23 19:49:53.942 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":126,"EptFlag":0,"MsgBody":"3","bussType":10001}
+2019-10-23 19:49:53.945 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":129,"EptFlag":0,"MsgBody":"6","bussType":10001}
+2019-10-23 19:49:53.946 [http-nio-9945-exec-6] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":132,"EptFlag":0,"MsgBody":"9","bussType":10001}
+2019-10-23 19:49:53.946 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":128,"EptFlag":0,"MsgBody":"5","bussType":10001}
+2019-10-23 19:49:53.951 [http-nio-9945-exec-8] INFO  com.socket.provider.server.WebSocketProvideServer - Receive a message from push: {"SeqNum":131,"EptFlag":0,"MsgBody":"8","bussType":10001}
+2019-10-23 19:50:17.371 [http-nio-9945-exec-9] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:50:17.371 [http-nio-9945-exec-10] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:50:17.371 [http-nio-9945-exec-1] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:50:17.378 [http-nio-9945-exec-2] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 
+2019-10-23 19:50:17.384 [http-nio-9945-exec-3] INFO  com.socket.provider.server.WebSocketProvideServer - Close a websocket. 

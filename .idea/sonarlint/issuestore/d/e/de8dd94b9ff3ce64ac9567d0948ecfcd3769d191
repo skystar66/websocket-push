@@ -1,0 +1,14 @@
+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï™œú8…ª¿ß-
+[squid:S1118":Add a private constructor to hide the implicit public one.(éîœğÿÿÿÿÿ8…ª¿ß-
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(É÷˜¹ûÿÿÿÿ8…ª¿ß-
+zsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(“¡Åÿÿÿÿÿ8…ª¿ß-
+Wsquid:UnusedPrivateMethod"-Remove this unused private "asArrays" method.(ˆÍÀ¥8…ª¿ß-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÂ²¶ûÿÿÿÿ8…ª¿ß-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î¶¶·8…ª¿ß-
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ®†38…ª¿ß-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢û­¨úÿÿÿÿ8…ª¿ß-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØÂ²¶ûÿÿÿÿ8…ª¿ß-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î¶¶·8…ª¿ß-
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ®†38…ª¿ß-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢û­¨úÿÿÿÿ8…ª¿ß-

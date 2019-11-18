@@ -1,0 +1,7 @@
+
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(£ˆöÕüÿÿÿÿ8ªŒŠ¿ß-
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Œ·€éüÿÿÿÿ8ªŒŠ¿ß-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ó…–±8ªŒŠ¿ß-
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8ªŒŠ¿ß-
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8ªŒŠ¿ß-
+dsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8ªŒŠ¿ß-
